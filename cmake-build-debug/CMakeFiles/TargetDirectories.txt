@@ -1,0 +1,3 @@
+D:/refa3e/AskMe/cmake-build-debug/CMakeFiles/AskMe.dir
+D:/refa3e/AskMe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/refa3e/AskMe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

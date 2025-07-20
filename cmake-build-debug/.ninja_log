@@ -1,0 +1,10 @@
+# ninja log v6
+3	2718	7747021611207466	CMakeFiles/AskMe.dir/main.cpp.obj	e8f98eaad21b4cf
+6	2759	7747021611237455	CMakeFiles/AskMe.dir/User.cpp.obj	cc8c80b14bbdec87
+8	2781	7747021611257451	CMakeFiles/AskMe.dir/System.cpp.obj	468ca9a19eb9eff
+2781	2935	7747021638987135	AskMe.exe	bb3e74381c30735f
+19	2327	7747040010847550	CMakeFiles/AskMe.dir/main.cpp.obj	e8f98eaad21b4cf
+22	2371	7747040010877676	CMakeFiles/AskMe.dir/System.cpp.obj	468ca9a19eb9eff
+2371	2513	7747040034367775	AskMe.exe	bb3e74381c30735f
+7	2294	7747040622674046	CMakeFiles/AskMe.dir/System.cpp.obj	468ca9a19eb9eff
+2294	2386	7747040645546885	AskMe.exe	bb3e74381c30735f
