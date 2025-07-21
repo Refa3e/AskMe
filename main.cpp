@@ -1,12 +1,12 @@
 ﻿#include <bits/stdc++.h>
 
-#include "cmake-build-debug/System.h"
+#include "cmake-build-debug/Login.h"
 using namespace std;
 
 
 int main() {
 
- System s;
+ Login s;
  s.choice();
 
 

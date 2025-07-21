@@ -61,8 +61,14 @@ build CMakeFiles/AskMe.dir/User.cpp.obj: CXX_COMPILER__AskMe_unscanned_Debug D$:
   OBJECT_DIR = CMakeFiles\AskMe.dir
   OBJECT_FILE_DIR = CMakeFiles\AskMe.dir
 
-build CMakeFiles/AskMe.dir/System.cpp.obj: CXX_COMPILER__AskMe_unscanned_Debug D$:/refa3e/AskMe/cmake-build-debug/System.cpp || cmake_object_order_depends_target_AskMe
-  DEP_FILE = CMakeFiles\AskMe.dir\System.cpp.obj.d
+build CMakeFiles/AskMe.dir/Login.cpp.obj: CXX_COMPILER__AskMe_unscanned_Debug D$:/refa3e/AskMe/cmake-build-debug/Login.cpp || cmake_object_order_depends_target_AskMe
+  DEP_FILE = CMakeFiles\AskMe.dir\Login.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\AskMe.dir
+  OBJECT_FILE_DIR = CMakeFiles\AskMe.dir
+
+build CMakeFiles/AskMe.dir/Question.cpp.obj: CXX_COMPILER__AskMe_unscanned_Debug D$:/refa3e/AskMe/cmake-build-debug/Question.cpp || cmake_object_order_depends_target_AskMe
+  DEP_FILE = CMakeFiles\AskMe.dir\Question.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\AskMe.dir
   OBJECT_FILE_DIR = CMakeFiles\AskMe.dir
@@ -75,7 +81,7 @@ build CMakeFiles/AskMe.dir/System.cpp.obj: CXX_COMPILER__AskMe_unscanned_Debug D
 #############################################
 # Link the executable AskMe.exe
 
-build AskMe.exe: CXX_EXECUTABLE_LINKER__AskMe_Debug CMakeFiles/AskMe.dir/main.cpp.obj CMakeFiles/AskMe.dir/User.cpp.obj CMakeFiles/AskMe.dir/System.cpp.obj
+build AskMe.exe: CXX_EXECUTABLE_LINKER__AskMe_Debug CMakeFiles/AskMe.dir/main.cpp.obj CMakeFiles/AskMe.dir/User.cpp.obj CMakeFiles/AskMe.dir/Login.cpp.obj CMakeFiles/AskMe.dir/Question.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\AskMe.dir
