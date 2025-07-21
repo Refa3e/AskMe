@@ -1,6 +1,6 @@
 ﻿#include <bits/stdc++.h>
 
-#include "cmake-build-debug/Login.h"
+#include "Login.h"
 using namespace std;
 
 
