@@ -1,6 +1,6 @@
 ## AskMe Logo
 
-![AskMe](assets/logo.png)
+![AskMe](assets/logo1.png)
 
 <p align="center">
   <img src="logo.png" alt="AskMe Logo" width="200"/>
